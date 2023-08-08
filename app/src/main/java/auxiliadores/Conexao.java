@@ -1,4 +1,4 @@
-package Auxiliadores;
+package auxiliadores;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
